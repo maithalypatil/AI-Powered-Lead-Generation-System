@@ -1,0 +1,11 @@
+FirstName,LastName,Company,Email,Phone,LeadSource,Status,Description,Lead_Score__c,Lead_Category__c,Product_Interest__c
+Aarav,Mehta,TechVista Solutions,aarav.mehta@techvista.example.com,+91-9000000001,Web,Open - Not Contacted,Asked for a demo of the corporate training programme,85,Hot,Training
+Priya,Nair,BrightPath Consulting,priya.nair@brightpath.example.com,+91-9000000002,Partner,Working - Contacted,Wants consulting support for a CRM rollout,72,Warm,Consulting
+Rohan,Deshmukh,CloudNest Pvt Ltd,rohan.deshmukh@cloudnest.example.com,+91-9000000003,Trade Show,Open - Not Contacted,Met at the Pune expo and collected the brochure,40,Cold,Certification
+Sneha,Kulkarni,Innovex Systems,sneha.kulkarni@innovex.example.com,+91-9000000004,Web,Working - Contacted,Team of 25 needs Salesforce certification,90,Hot,Certification
+Vikram,Singh,DataBridge Analytics,vikram.singh@databridge.example.com,+91-9000000005,External Referral,Open - Not Contacted,Referred by an existing customer,65,Warm,Consulting
+Ananya,Iyer,GreenLeaf Retail,ananya.iyer@greenleaf.example.com,+91-9000000006,Advertisement,Open - Not Contacted,Clicked on an online advertisement,35,Cold,Training
+Karan,Joshi,NextGen Logistics,karan.joshi@nextgen.example.com,+91-9000000007,Web,Working - Contacted,Evaluating vendors for staff upskilling,78,Warm,Training
+Neha,Patel,SkyBridge Finance,neha.patel@skybridge.example.com,+91-9000000008,Partner,Working - Contacted,Needs consulting on lead management automation,88,Hot,Consulting
+Arjun,Rao,UrbanKart,arjun.rao@urbankart.example.com,+91-9000000009,Word of mouth,Open - Not Contacted,Heard about the programme from a colleague,50,Warm,Certification
+Meera,Bose,Medicore Health,meera.bose@medicore.example.com,+91-9000000010,Web,Open - Not Contacted,Downloaded the training catalogue,30,Cold,Training

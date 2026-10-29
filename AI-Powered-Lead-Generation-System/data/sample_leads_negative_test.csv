@@ -1,0 +1,5 @@
+FirstName,LastName,Company,Email,Phone,LeadSource,Status,Description,Lead_Score__c,Lead_Category__c,Product_Interest__c
+Test,Gmail,Negative Test Co,test.user@gmail.com,+91-9000000101,Web,Open - Not Contacted,Must be rejected by the validation rule,10,Cold,Training
+Test,Yahoo,Negative Test Co,test.user@yahoo.com,+91-9000000102,Web,Open - Not Contacted,Must be rejected by the validation rule,10,Cold,Training
+Test,Hotmail,Negative Test Co,test.user@hotmail.com,+91-9000000103,Web,Open - Not Contacted,Must be rejected by the validation rule,10,Cold,Training
+Test,Outlook,Negative Test Co,test.user@outlook.com,+91-9000000104,Web,Open - Not Contacted,Must be rejected by the validation rule,10,Cold,Training

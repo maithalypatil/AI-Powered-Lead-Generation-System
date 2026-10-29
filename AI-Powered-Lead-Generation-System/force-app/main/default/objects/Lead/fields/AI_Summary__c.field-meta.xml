@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AI_Summary__c</fullName>
+    <description>AI-generated summary of the lead, produced by the Einstein Prompt Builder template.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Click the AI icon on this field to generate a summary with Einstein.</inlineHelpText>
+    <label>AI Summary</label>
+    <length>32000</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>10</visibleLines>
+</CustomField>

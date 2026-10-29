@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Reject_Personal_Email</fullName>
+    <active>true</active>
+    <description>Blocks leads that use personal email domains so only business leads are captured.</description>
+    <errorConditionFormula>OR(
+    CONTAINS(LOWER(Email), "@gmail."),
+    CONTAINS(LOWER(Email), "@yahoo."),
+    CONTAINS(LOWER(Email), "@hotmail."),
+    CONTAINS(LOWER(Email), "@outlook.")
+)</errorConditionFormula>
+    <errorDisplayField>Email</errorDisplayField>
+    <errorMessage>Personal email domains like Gmail, Yahoo, Hotmail, and Outlook are not allowed</errorMessage>
+</ValidationRule>
